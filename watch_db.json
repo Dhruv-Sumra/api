@@ -18,5 +18,92 @@
             "img":"./src/imgs/ad3.jpg",
             "info":"the Samsung Watch keeps you connected, healthy, and on the go"
         }
+    ],
+    
+    "products":[
+        {
+            "id":4,
+            "img":"imgs/p1.webp",
+            "title":"Apple watch 2",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":5,
+            "img":"imgs/p2.webp",
+            "title":"Apple ultra 9",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":6,
+            "img":"imgs/p3.webp",
+            "title":"xiaomi pro",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":7,
+            "img":"imgs/p4.webp",
+            "title":"xiaomi ultra",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":8,
+            "img":"imgs/p5.webp",
+            "title":"Samsung galaxy 6",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":9,
+            "img":"imgs/p6.webp",
+            "title":"Samsung galaxy ultra",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":10,
+            "img":"imgs/p7.webp",
+            "title":"Noise 2",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":11,
+            "img":"imgs/p8.webp",
+            "title":"Noise round",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":12,
+            "img":"imgs/p9.webp",
+            "title":"FireBoltt ninja",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":13,
+            "img":"imgs/p10.webp",
+            "title":"FireBoltt pheonix",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":14,
+            "img":"imgs/p11.webp",
+            "title":"Boat ultima",
+            "price":"255",
+            "mrp":"300"
+        },
+        {
+            "id":15,
+            "img":"imgs/p12.webp",
+            "title":"Boat lunar",
+            "price":"255",
+            "mrp":"300"
+        }
     ]
 }
