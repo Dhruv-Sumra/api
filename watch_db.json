@@ -2,7 +2,7 @@
     "ads":[
         {
             "id":1,
-            "title":"Apple",
+            
             "img":"watch-store/src/imgs/ad1.jpg",
             "info":""
         },
