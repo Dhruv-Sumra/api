@@ -4,19 +4,19 @@
             "id":1,
             "title":"Apple",
             "img":"./src/imgs/ad1.jpg",
-            "info":""
+            "info":"the Apple Watch keeps you connected, healthy, and ahead of time."
         },
         {
             "id":2,
             "title":"Xiaomi",
             "img":"./src/imgs/ad2.jpg",
-            "info":""
+            "info":"Xiaomi Watch keeps you stylishly connected and health-focused."
         },
         {
             "id":3,
             "title":"Samsung",
             "img":"./src/imgs/ad3.jpg",
-            "info":""
+            "info":"the Samsung Watch keeps you connected, healthy, and on the go"
         }
     ]
 }
