@@ -3,19 +3,19 @@
         {
             "id":1,
             "title":"Apple",
-            "img":"./src/imgs/ad1.jpg",
+            "img":"imgs/ad1.jpg",
             "info":""
         },
         {
             "id":2,
             "title":"Xiaomi",
-            "img":"./src/imgs/ad2.jpg",
+            "img":"imgs/ad2.jpg",
             "info":""
         },
         {
             "id":3,
             "title":"Samsung",
-            "img":"./src/imgs/ad3.jpg",
+            "img":"imgs/ad3.jpg",
             "info":""
         }
     ]
