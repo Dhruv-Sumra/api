@@ -1,0 +1,22 @@
+{
+    "ads":[
+        {
+            "id":1,
+            "title":"Apple",
+            "img":"imgs/ad1.jpg",
+            "info":""
+        },
+        {
+            "id":2,
+            "title":"Xiaomi",
+            "img":"imgs/ad2.jpg",
+            "info":""
+        },
+        {
+            "id":3,
+            "title":"Samsung",
+            "img":"imgs/ad3.jpg",
+            "info":""
+        }
+    ]
+}
