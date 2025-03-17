@@ -65,7 +65,7 @@
         },
         {
             "id":10,
-            "img":"imgs/p7.webp",
+            "img":"./src/imgs/p7.webp",
             "title":"Noise 2",
             "price":"255",
             "mrp":"300"
