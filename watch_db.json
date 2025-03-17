@@ -105,5 +105,56 @@
             "price":"255",
             "mrp":"300"
         }
+    ],
+
+    "review":[
+        {
+            "id":16,
+            "title":"Jack",
+            "body":"This watch feels sturdy and looks elegant. I've received several compliments already. A true gem",
+            "img":"./src/imgs/r1.webp"
+        },
+        {
+            "id":17,
+            "title":"Mike",
+            "body":"A perfect blend of style Keeps time accurately and pairs well with both casual and formal attire",
+            "img":"./src/imgs/r2.webp"
+        },
+        {
+            "id":18,
+            "title":"Reacher",
+            "body":"For the price, this watch delivers more than expected, Highly recommended",
+            "img":"./src/imgs/r3.jpeg"
+        },
+        {
+            "id":19,
+            "title":"Daniel",
+            "body":"The design is sleek and modern, perfect for  Comfortable on the wrist and easy to read",
+            "img":"./src/imgs/r4.webp"
+        },
+        {
+            "id":20,
+            "title":"Logan",
+            "body":"Packed with impressive features, The chronograph is a nice touch",
+            "img":"./src/imgs/r5.jpeg"
+        },
+        {
+            "id":21,
+            "title":"Vinjin",
+            "body":"This watch exudes the leather strap is comfortable, and the dial is beautifully detailed",
+            "img":"./src/imgs/r6.jpeg"
+        },
+        {
+            "id":22,
+            "title":"Vasco",
+            "body":"I've been wearing this watch for months and it's been extremely dependable Water-resistant and scratch-resistant",
+            "img":"./src/imgs/r7.webp"
+        },
+        {
+            "id":23,
+            "title":"Jay",
+            "body":"Not only is the watch fantastic, They resolved my issue promptly and professionally",
+            "img":"./src/imgs/r8.webp"
+        }
     ]
 }
