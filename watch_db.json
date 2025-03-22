@@ -156,5 +156,27 @@
             "body":"Not only is the watch fantastic, They resolved my issue promptly and professionally",
             "img":"./src/imgs/r8.webp"
         }
-    ]
+    ],
+
+     "brands":{
+        
+        "brands_scroll":[
+            {
+                "id":16,
+                "img":"./src/imgs/bs1.jpg"
+            },
+            {
+                "id":17,
+                "img":"./src/imgs/bs2.jpg"
+            },
+            {
+                "id":18,
+                "img":"./src/imgs/bs3.jpg"
+            },
+            {
+                "id":19,
+                "img":"./src/imgs/bs4.jpg"
+            }
+        ]
+    }
 }
