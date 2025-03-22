@@ -158,25 +158,26 @@
         }
     ],
 
-     "brands":{
-        
-        "brands_scroll":[
-            {
-                "id":16,
-                "img":"./src/imgs/bs1.jpg"
-            },
-            {
-                "id":17,
-                "img":"./src/imgs/bs2.jpg"
-            },
-            {
-                "id":18,
-                "img":"./src/imgs/bs3.jpg"
-            },
-            {
-                "id":19,
-                "img":"./src/imgs/bs4.jpg"
-            }
-        ]
+"brands": [
+    {
+      "brands_scroll": [
+        {
+          "id": 16,
+          "img": "./src/imgs/bs1.jpg"
+        },
+        {
+          "id": 17,
+          "img": "./src/imgs/bs2.jpg"
+        },
+        {
+          "id": 18,
+          "img": "./src/imgs/bs3.jpg"
+        },
+        {
+          "id": 19,
+          "img": "./src/imgs/bs4.jpg"
+        }
+      ]
     }
+  ]
 }
