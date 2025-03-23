@@ -19,6 +19,93 @@
             "info":"the Samsung Watch keeps you connected, healthy, and on the go"
         }
     ],
+
+    "recent": [
+    {
+      "id": 101,
+      "img": "./src/imgs/rw1.jpg",
+      "title": "Apple watch 2",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 102,
+      "img": "./src/imgs/rw2.jpg",
+      "title": "Apple ultra 9",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 103,
+      "img": "./src/imgs/rw3.jpg",
+      "title": "xiaomi pro",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 104,
+      "img": "./src/imgs/rw4.jpg",
+      "title": "xiaomi ultra",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 105,
+      "img": "./src/imgs/rw5.jpg",
+      "title": "Samsung galaxy 6",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 106,
+      "img": "./src/imgs/rw6.jpg",
+      "title": "Samsung galaxy ultra",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 107,
+      "img": "./src/imgs/rw7.jpg",
+      "title": "Noise 2",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 108,
+      "img": "./src/imgs/rw8.jpg",
+      "title": "Noise round",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 109,
+      "img": "./src/imgs/rw9.jpg",
+      "title": "FireBoltt ninja",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 110,
+      "img": "./src/imgs/rw10.jpg",
+      "title": "FireBoltt pheonix",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 111,
+      "img": "./src/imgs/rw11.jpg",
+      "title": "Boat ultima",
+      "price": "255",
+      "mrp": "300"
+    },
+    {
+      "id": 112,
+      "img": "./src/imgs/rw12.jpg",
+      "title": "Boat lunar",
+      "price": "255",
+      "mrp": "300"
+    }
+  ],
     
     "products":[
         {
