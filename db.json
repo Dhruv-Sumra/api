@@ -157,17 +157,17 @@
         {
           "id": 23,
           "title": "MS Dhoni",
-          "info": "",
+          "info": "https://cricket99.com/wp-content/uploads/2016/01/dhoni.png",
           "img": "src/imgs/cr2.jpg",
           "age": 43,
           "country": "India",
-          "position": "Keeper/Batter    "
+          "position": "Keeper/Batter"
         },
         {
           "id": 24,
           "title": "Sachin Tendulkar",
           "info": "",
-          "img": "src/imgs/cr3.jpg",
+          "img": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/316400/316486.5.png",
           "age": 51,
           "country": "India",
           "position": "Batter"
@@ -176,7 +176,7 @@
           "id": 25,
           "title": "Rohit Sharma",
           "info": "",
-          "img": "src/imgs/cr4.jpg",
+          "img": "https://d1af7m13b2f34i.cloudfront.net/players/RohitSharma22-06-2021-05-10-26.png",
           "age": 37,
           "country": "India",
           "position": "Batter"
@@ -185,7 +185,7 @@
           "id": 26,
           "title": "Hardik Pandya",
           "info": "",
-          "img": "src/imgs/cr5.jpg",
+          "img": "https://www.seekpng.com/png/full/270-2700694_hardik-pandya.png",
           "age": 31,
           "country": "India",
           "position": "All-Rounder"
@@ -198,7 +198,7 @@
           "id": 32,
           "title": "Muhammad Ali",
           "info": "",
-          "img": "src/imgs/bx1.jpg",
+          "img": "https://www.freeiconspng.com/uploads/muhammad-ali-png-3.png",
           "age": "76-(2016)",
           "country": "United-states",
           "position": "Boxer"
@@ -207,7 +207,7 @@
           "id": 33,
           "title": "Mike Tyson",
           "info": "",
-          "img": "src/imgs/bx2.jpg",
+          "img": "https://a1png.com/wp-content/uploads/2021/11/mike-tyson-7-1.png",
           "age": 58,
           "country": "United-states",
           "position": "Boxer"
@@ -216,7 +216,7 @@
           "id": 34,
           "title": "Floyd Mayweather Jr",
           "info": "",
-          "img": "src/imgs/bx3.jpg",
+          "img": "https://www.fightsports.tv/wp-content/uploads/Floyd_Mayweather_Jr.png",
           "age": 48,
           "country": "United-states",
           "position": "Boxer"
@@ -225,7 +225,7 @@
           "id": 35,
           "title": "George Foreman",
           "info": "",
-          "img": "src/imgs/bx4.jpg",
+          "img": "https://www.xtravaganzapt.nl/templates/rt_xenon/custom/images/quotes/forman.png",
           "age": 76,
           "country": "United-states",
           "position": "Boxer"
@@ -234,7 +234,7 @@
           "id": 36,
           "title": "Roberto Durán",
           "info": "",
-          "img": "src/imgs/bx5.jpg",
+          "img": "https://cdn.futwiz.com/assets/img/fifa23/faces/270421.png",
           "age": 73,
           "country": "Panama",
           "position": "Boxer"
@@ -247,7 +247,7 @@
           "id": 37,
           "title": "Jon Jones",
           "info": "",
-          "img": "src/imgs/u1.jpg",
+          "img": "https://dmxg5wxfqgb4u.cloudfront.net/2023-03/JONES_JON_BELT_03_04.png",
           "age": 37,
           "country": "United-states",
           "position": "Heavyweight Champion"
@@ -256,7 +256,7 @@
           "id": 38,
           "title": "Khabib Nurmagomedov",
           "info": "",
-          "img": "src/imgs/u2.jpg",
+          "img": "https://pngimg.com/d/khabib_PNG9.png",
           "age": 36,
           "country": "Russia",
           "position": "undefeated"
@@ -265,7 +265,7 @@
           "id": 39,
           "title": "Conor McGregor",
           "info": "",
-          "img": "src/imgs/u3.jpg",
+          "img": "https://www.pngall.com/wp-content/uploads/12/Conor-Anthony-McGregor-MMA-PNG-Images.png",
           "age": 36,
           "country": "Ireland",
           "position": "Lightweight division"
@@ -274,7 +274,7 @@
           "id": 40,
           "title": "Israel Adesanya",
           "info": "",
-          "img": "src/imgs/u4.jpg",
+          "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4285679.png",
           "age": 35,
           "country": "Nigeria",
           "position": "Middleweight division"
@@ -283,7 +283,7 @@
           "id": 41,
           "title": "Anderson Silva",
           "info": "",
-          "img": "src/imgs/u5.jpg",
+          "img": "https://3.bp.blogspot.com/-MLQYIBgG3wg/VT5-2zaihDI/AAAAAAAAARE/VcHPeGt17xU/s1600/Anderson-Silva_753_right30.png",
           "age": 49,
           "country": "Brazil",
           "position": "mixed martial artist"
@@ -299,19 +299,19 @@
           "id":101,
           "title":"India reaches Champions Trophy final",
           "info":"India defeated New Zealand by 44 runs in the ICC Champions Trophy 2025, thanks to Varun Chakravarthy's maiden five-wicket haul. India will face Australia in the semi-final",
-          "img":"src/imgs/nws1.jpg"
+          "img":"https://myfinal11.b-cdn.net/wp-content/uploads/2024/07/ICC-Champion-Trophy-2025.webp"
         },
         {
           "id":102,
           "title":"Saquon Barkley becomes highest-paid running back",
           "info":"Saquon Barkley has signed a new extension with the Philadelphia Eagles, making him the highest-paid running back in NFL history",
-          "img":"src/imgs/nws2.jpg"
+          "img":"https://media.phillyvoice.com/media/images/USATSI_22183964.0a0e24b0.fill-1200x630-c0.jpg"
         },
         {
           "id":103,
           "title":"Arsenal breaks Champions League record",
           "info":"Arsenal delivered a stunning performance, scoring seven goals against PSV in the Champions League, setting a new record",
-          "img":"src/imgs/nws3.jpg"
+          "img":"https://cdn1.arsenalinsider.com/uploads/19/2024/09/GettyImages-2169596792-scaled-e1726813502243-1024x587.jpg"
         }
       ]
     },
@@ -321,49 +321,49 @@
           "id":104,
           "title":"India's Women's Hockey Team Wins Asian Champions Trophy",
           "info":"India's women's hockey team clinched their third Asian Champions Trophy honor.",
-          "img":"src/imgs/sn1.jpg"
+          "img":"https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2023/11/07180607/Indian-Womens-Hockey-Team-Wins-Gold-at-Asian-Champions-Trophy-2023.png"
         },
         {
           "id":105,
           "title":"India Bids to Host 2036 Olympics",
           "info":"India officially bids to host the 2036 Olympics and Paralympics.",
-          "img":"src/imgs/sn2.jpg"
+          "img":"https://thefederal.com/h-upload/2023/10/16/417649-narendra-modi-ioc-session.webp"
         },
         {
           "id":106,
           "title":"Rafael Nadal Retires",
           "info":"Rafael Nadal confirms his retirement, with Roger Federer and Cristiano Ronaldo leading the wishes.",
-          "img":"src/imgs/sn3.jpg"
+          "img":"https://cdn.thenationonlineng.net/wp-content/uploads/2024/11/20114246/Rafael-Nadal-510x340.png"
         },
         {
           "id":107,
           "title":"India Tops World Test Championship Standings",
           "info":"India solidifies their top position in the World Test Championship standings.",
-          "img":"src/imgs/sn4.jpg"
+          "img":"https://img.mensxp.com/media/content/2024/Sep/FB-804_66f243bc73678.jpeg"
         },
         {
           "id":108,
           "title":"Virat Kohli's Tribute to Shikhar Dhawan",
           "info":"Virat Kohli pens an emotional tribute for Shikhar Dhawan's retirement.",
-          "img":"src/imgs/sn5.webp"
+          "img":"https://i.cdn.newsbytesapp.com/images/19722131724577360.jpg"
         },
         {
           "id":109,
           "title":"Hardik Pandya and Natasa Stankovic Split",
           "info":"Hardik Pandya's flamboyant personality reportedly led to his split with Natasa Stankovic.",
-          "img":"src/imgs/sn6.jpg"
+          "img":"https://cricfiles.com/wp-content/uploads/2023/08/Hardik-Pandya-2.jpg"
         },
         {
           "id":110,
           "title":"Archana Kamath Retires from Table Tennis",
           "info":"Paris Olympics star Archana Kamath retires from professional table tennis.",
-          "img":"src/imgs/sn7.jpg"
+          "img":"https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/08/dravid-85-1724414610.jpg"
         },
         {
           "id":111,
           "title":"India Announces Largest Paralympic Squad",
           "info":"India announces its largest-ever Paralympic squad for Paris 2024.",
-          "img":"src/imgs/sn8.jpg"
+          "img":"https://wp.scoopwhoop.com/wp-content/uploads/2016/09/595887330.jpg"
         }
       ]
     }
