@@ -3,19 +3,19 @@
         {
             "id":1,
             "title":"Apple",
-            "img":"./src/imgs/ad1.jpg",
+            "img":"src/imgs/ad1.jpg",
             "info":"the Apple Watch keeps you connected, healthy, and ahead of time."
         },
         {
             "id":2,
             "title":"Xiaomi",
-            "img":"./src/imgs/ad2.jpg",
+            "img":"src/imgs/ad2.jpg",
             "info":"Xiaomi Watch keeps you stylishly connected and health-focused."
         },
         {
             "id":3,
             "title":"Samsung",
-            "img":"./src/imgs/ad3.jpg",
+            "img":"src/imgs/ad3.jpg",
             "info":"the Samsung Watch keeps you connected, healthy, and on the go"
         }
     ],
@@ -23,7 +23,7 @@
     "recent": [
     {
       "id": 101,
-      "img": "./src/imgs/rw1.jpg",
+      "img": "src/imgs/rw1.jpg",
       "title": "Apple watch 2",
       "price": "255",
       "mrp": "300"
@@ -44,28 +44,28 @@
     },
     {
       "id": 104,
-      "img": "./src/imgs/rw4.jpg",
+      "img": "src/imgs/rw4.jpg",
       "title": "xiaomi ultra",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 105,
-      "img": "./src/imgs/rw5.jpg",
+      "img": "src/imgs/rw5.jpg",
       "title": "Samsung galaxy 6",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 106,
-      "img": "./src/imgs/rw6.jpg",
+      "img": "src/imgs/rw6.jpg",
       "title": "Samsung galaxy ultra",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 107,
-      "img": "./src/imgs/rw7.jpg",
+      "img": "src/imgs/rw7.jpg",
       "title": "Noise 2",
       "price": "255",
       "mrp": "300"
@@ -79,14 +79,14 @@
     },
     {
       "id": 109,
-      "img": "./src/imgs/rw9.jpg",
+      "img": "src/imgs/rw9.jpg",
       "title": "FireBoltt ninja",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 110,
-      "img": "./src/imgs/rw10.jpg",
+      "img": "src/imgs/rw10.jpg",
       "title": "FireBoltt pheonix",
       "price": "255",
       "mrp": "300"
@@ -100,7 +100,7 @@
     },
     {
       "id": 112,
-      "img": "./src/imgs/rw12.jpg",
+      "img": "src/imgs/rw12.jpg",
       "title": "Boat lunar",
       "price": "255",
       "mrp": "300"
@@ -110,42 +110,42 @@
     "products":[
         {
             "id":4,
-            "img":"./src/imgs/p1.webp",
+            "img":"src/imgs/p1.webp",
             "title":"Apple watch 2",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":5,
-            "img":"./src/imgs/p2.webp",
+            "img":"src/imgs/p2.webp",
             "title":"Apple ultra 9",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":6,
-            "img":"./src/imgs/p3.webp",
+            "img":"src/imgs/p3.webp",
             "title":"xiaomi pro",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":7,
-            "img":"./src/imgs/p4.webp",
+            "img":"src/imgs/p4.webp",
             "title":"xiaomi ultra",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":8,
-            "img":"./src/imgs/p5.webp",
+            "img":"src/imgs/p5.webp",
             "title":"Samsung galaxy 6",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":9,
-            "img":"./src/imgs/p6.webp",
+            "img":"src/imgs/p6.webp",
             "title":"Samsung galaxy ultra",
             "price":"255",
             "mrp":"300"
@@ -159,35 +159,35 @@
         },
         {
             "id":11,
-            "img":"./src/imgs/p8.webp",
+            "img":"src/imgs/p8.webp",
             "title":"Noise round",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":12,
-            "img":"./src/imgs/p9.webp",
+            "img":"src/imgs/p9.webp",
             "title":"FireBoltt ninja",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":13,
-            "img":"./src/imgs/p10.webp",
+            "img":"src/imgs/p10.webp",
             "title":"FireBoltt pheonix",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":14,
-            "img":"./src/imgs/p11.webp",
+            "img":"src/imgs/p11.webp",
             "title":"Boat ultima",
             "price":"255",
             "mrp":"300"
         },
         {
             "id":15,
-            "img":"./src/imgs/p12.webp",
+            "img":"src/imgs/p12.webp",
             "title":"Boat lunar",
             "price":"255",
             "mrp":"300"
@@ -199,49 +199,49 @@
             "id":16,
             "title":"Jack",
             "body":"This watch feels sturdy and looks elegant. I've received several compliments already. A true gem",
-            "img":"./src/imgs/r1.webp"
+            "img":"src/imgs/r1.webp"
         },
         {
             "id":17,
             "title":"Mike",
             "body":"A perfect blend of style Keeps time accurately and pairs well with both casual and formal attire",
-            "img":"./src/imgs/r2.webp"
+            "img":"src/imgs/r2.webp"
         },
         {
             "id":18,
             "title":"Reacher",
             "body":"For the price, this watch delivers more than expected, Highly recommended",
-            "img":"./src/imgs/r3.jpeg"
+            "img":"src/imgs/r3.jpeg"
         },
         {
             "id":19,
             "title":"Daniel",
             "body":"The design is sleek and modern, perfect for  Comfortable on the wrist and easy to read",
-            "img":"./src/imgs/r4.webp"
+            "img":"src/imgs/r4.webp"
         },
         {
             "id":20,
             "title":"Logan",
             "body":"Packed with impressive features, The chronograph is a nice touch",
-            "img":"./src/imgs/r5.jpeg"
+            "img":"src/imgs/r5.jpeg"
         },
         {
             "id":21,
             "title":"Vinjin",
             "body":"This watch exudes the leather strap is comfortable, and the dial is beautifully detailed",
-            "img":"./src/imgs/r6.jpeg"
+            "img":"src/imgs/r6.jpeg"
         },
         {
             "id":22,
             "title":"Vasco",
             "body":"I've been wearing this watch for months and it's been extremely dependable Water-resistant and scratch-resistant",
-            "img":"./src/imgs/r7.webp"
+            "img":"src/imgs/r7.webp"
         },
         {
             "id":23,
             "title":"Jay",
             "body":"Not only is the watch fantastic, They resolved my issue promptly and professionally",
-            "img":"./src/imgs/r8.webp"
+            "img":"src/imgs/r8.webp"
         }
     ],
 
@@ -250,81 +250,81 @@
       "brands_scroll": [
         {
           "id": 16,
-          "img": "./src/imgs/bs1.jpg"
+          "img": "src/imgs/bs1.jpg"
         },
         {
           "id": 17,
-          "img": "./src/imgs/bs2.jpg"
+          "img": "src/imgs/bs2.jpg"
         },
         {
           "id": 18,
-          "img": "./src/imgs/bs3.jpg"
+          "img": "src/imgs/bs3.jpg"
         },
         {
           "id": 19,
-          "img": "./src/imgs/bs4.jpg"
+          "img": "src/imgs/bs4.jpg"
         }
       ],
         "brands_list":[
         {
             "id":20,
-            "img":"./src/imgs/bl1.png"
+            "img":"src/imgs/bl1.png"
         },
         {
             "id":21,
-            "img":"./src/imgs/bl2.png"
+            "img":"src/imgs/bl2.png"
         },
         {
             "id":22,
-            "img":"./src/imgs/bl3.png"
+            "img":"src/imgs/bl3.png"
         },
         {
             "id":23,
-            "img":"./src/imgs/bl4.png"
+            "img":"src/imgs/bl4.png"
         },
         {
             "id":24,
-            "img":"./src/imgs/bl5.png"
+            "img":"src/imgs/bl5.png"
         },
         {
             "id":25,
-            "img":"./src/imgs/bl6.avif"
+            "img":"src/imgs/bl6.avif"
         },
         {
             "id":26,
-            "img":"./src/imgs/bl7.webp"
+            "img":"src/imgs/bl7.webp"
         },
         {
             "id":27,
-            "img":"./src/imgs/bl8.jpg"
+            "img":"src/imgs/bl8.jpg"
         },
         {
             "id":28,
-            "img":"./src/imgs/bl9.png"
+            "img":"src/imgs/bl9.png"
         },
         {
             "id":29,
-            "img":"./src/imgs/bl10.webp"
+            "img":"src/imgs/bl10.webp"
         },
         {
             "id":30,
-            "img":"./src/imgs/bl11.png"
+            "img":"src/imgs/bl11.png"
         },
         {
             "id":31,
-            "img":"./src/imgs/bl12.png"
+            "img":"src/imgs/bl12.png"
         },
         {
             "id":32,
-            "img":"./src/imgs/bl13.webp"
+            "img":"src/imgs/bl13.webp"
         },
         {
             "id":33,
-            "img":"./src/imgs/bl14.jpg"
+            "img":"src/imgs/bl14.jpg"
         },
         {
             "id":34,
-            "img":"./src/imgs/bl15.jpg"
+            "img":"src/imgs/bl15.jpg"
         }
       ]
     }
