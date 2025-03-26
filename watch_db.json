@@ -4,19 +4,19 @@
       "id": 1,
       "title": "Apple",
       "img": "https://www.pngarts.com/files/8/Apple-Watch-PNG-High-Quality-Image.png",
-      "info": ""
+      "info": "The Apple Watch excels in fitness, health tracking, and seamless Apple integration."
     },
     {
       "id": 2,
       "title": "Xiaomi",
       "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1679574223.38469571.png",
-      "info": ""
+      "info": "Xiaomi smartwatches offer affordability, robust fitness features, and impressive battery life, all in a sleek design."
     },
     {
       "id": 3,
       "title": "Samsung",
-      "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/internet-devices/samsung/Samsung-Galaxy-Watch5-40mm/Graphite/Samsung-Galaxy-Watch5-40mm-Graphite-frontimage.png",
-      "info": ""
+      "img": "https://images.fravega.com/f1000/b3383a6853e611ffcfae5b44b939c93a.png",
+      "info": "Samsung smartwatches, like the Galaxy Watch series, combine stylish design, powerful performance, and advanced fitness and health features"
     }
   ],
 
