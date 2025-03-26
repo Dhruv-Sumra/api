@@ -8,87 +8,87 @@
     {
       "id": 2,
       "title": "Cricket",
-      "img": "src/imgs/c2.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/2160/2160153.png"
     },
     {
       "id": 3,
       "title": "Boxing",
-      "img": "src/imgs/c3.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/11238/11238183.png"
     },
     {
       "id": 4,
       "title": "Hockey",
-      "img": "src/imgs/c4.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/9391/9391402.png"
     },
     {
       "id": 5,
       "title": "Tennis",
-      "img": "src/imgs/c5.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/5023/5023365.png"
     },
     {
       "id": 6,
       "title": "Rugby",
-      "img": "src/imgs/c6.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/687/687113.png"
     },
     {
       "id": 7,
       "title": "Basketball",
-      "img": "src/imgs/c7.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/33/33838.png"
     },
     {
       "id": 8,
       "title": "Soccer",
-      "img": "src/imgs/c8.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/4329/4329327.png"
     },
     {
       "id": 9,
       "title": "Baseball",
-      "img": "src/imgs/c9.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/3210/3210549.png"
     },
     {
       "id": 10,
       "title": "Golf",
-      "img": "src/imgs/c10.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/4283/4283531.png"
     },
     {
       "id": 11,
       "title": "Swimming",
-      "img": "src/imgs/c11.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/3144/3144982.png"
     },
     {
       "id": 12,
       "title": "Athletics",
-      "img": "src/imgs/c12.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/5073/5073699.png"
     },
     {
       "id": 13,
       "title": "Badminton",
-      "img": "src/imgs/c13.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/2633/2633874.png"
     },
     {
       "id": 14,
       "title": "Squash",
-      "img": "src/imgs/c14.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/7225/7225565.png"
     },
     {
       "id": 15,
       "title": "Serfing",
-      "img": "src/imgs/c15.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/12667/12667942.png"
     },
     {
       "id": 16,
       "title": "Sailing",
-      "img": "src/imgs/c16.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/7733/7733442.png"
     },
     {
       "id": 17,
       "title": "UFC",
-      "img": "src/imgs/c17.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/14371/14371711.png"
     },
     {
       "id": 18,
       "title": "Wrestling",
-      "img": "src/imgs/c18.png"
+      "img": "https://cdn-icons-png.flaticon.com/128/94/94107.png"
     }
   ],
 
@@ -99,7 +99,7 @@
           "id": 21,
           "title": "Sunil chhetri",
           "info": "",
-          "img": "src/imgs/f1.png",
+          "img": "https://s3p.sofifa.net/fd4447dc4efabeeb0e031dd3c636cb8bd183d22f.png",
           "age": 40,
           "country": "India",
           "position": "Fordward"
@@ -108,7 +108,7 @@
           "id": 22,
           "title": "Cristiano Ronaldo",
           "info": "",
-          "img": "src/imgs/f2.jpg",
+          "img": "https://b.fssta.com/uploads/application/soccer/headshots/885.png",
           "age": 40,
           "country": "Portugal",
           "position": "Fordward    "
@@ -117,7 +117,7 @@
           "id": 21,
           "title": "Lionel Messi",
           "info": "",
-          "img": "src/imgs/f3.jpg",
+          "img": "https://pngfre.com/wp-content/uploads/lionel-messi-9-2048x1741.png",
           "age": 37,
           "country": "Argentina",
           "position": "Fordward"
@@ -126,7 +126,7 @@
           "id": 21,
           "title": "Neymar Jr.",
           "info": "",
-          "img": "src/imgs/f4.jpg",
+          "img": "https://sportsmanheight.com/wp-content/uploads/2022/05/2-13-768x932.png",
           "age": 33,
           "country": "Brazil",
           "position": "Fordward"
@@ -135,7 +135,7 @@
           "id": 21,
           "title": "Kylian Mbappé",
           "info": "",
-          "img": "src/imgs/f5.jpg",
+          "img": "https://www.pngmart.com/files/22/Kylian-Mbappe-PNG.png",
           "age": 26,
           "country": "France",
           "position": "Fordward"
@@ -149,7 +149,7 @@
           "id": 22,
           "title": "Virat Kohli",
           "info": "",
-          "img": "src/imgs/cr1.jpg",
+          "img": "https://parimatchnews.com/wp-content/uploads/2020/11/Virat-Kohli.png",
           "age": 36,
           "country": "India",
           "position": "Batter"
