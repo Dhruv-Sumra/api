@@ -15,7 +15,7 @@
     {
       "id": 3,
       "title": "Samsung",
-      "img": "https://cdn.vodafone.co.uk/en/assets/images/desktop/Samsung_Galaxy_Watch5_40mm_silver-full-product-front-600.png",
+      "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/internet-devices/samsung/Samsung-Galaxy-Watch5-40mm/Graphite/Samsung-Galaxy-Watch5-40mm-Graphite-frontimage.png",
       "info": ""
     }
   ],
@@ -93,14 +93,14 @@
     },
     {
       "id": 14,
-      "img": "imgs/p11.webp",
+      "img": "https://m.media-amazon.com/images/I/61XhyczDqQL._AC_UY327_FMwebp_QL65_.jpg",
       "title": "Boat ultima",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 15,
-      "img": "imgs/p12.webp",
+      "img": "https://m.media-amazon.com/images/I/71Iit7U1S+L._AC_UY327_FMwebp_QL65_.jpg",
       "title": "Boat lunar",
       "price": "255",
       "mrp": "300"
@@ -110,84 +110,84 @@
   "recent": [
     {
       "id": 101,
-      "img": "./src/imgs/rw1.jpg",
+      "img": "https://www.pngmart.com/files/23/Apple-Watch-PNG-Image.png",
       "title": "Apple watch 2",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 102,
-      "img": "./src/imgs/rw2.jpg",
+      "img": "https://gallerypngs.com/wp-content/uploads/2024/09/Apple-Watch-Png-picture.png",
       "title": "Apple ultra 9",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 103,
-      "img": "./src/imgs/rw3.jpg",
+      "img": "https://images.frandroid.com/wp-content/uploads/2020/11/xiaomi-redmi-watch-frandroid-2020.png",
       "title": "xiaomi pro",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 104,
-      "img": "./src/imgs/rw4.jpg",
+      "img": "https://www.mistores.sk/wp-content/uploads/2023/10/watch-s2-silvere-foto2.png",
       "title": "xiaomi ultra",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 105,
-      "img": "./src/imgs/rw5.jpg",
+      "img": "https://freebiescloud.com/wp-content/uploads/2022/08/Samsung-Galaxy-Watch-5-Pro-2.png",
       "title": "Samsung galaxy 6",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 106,
-      "img": "./src/imgs/rw6.jpg",
+      "img": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/mediumplus/public/article_images/2021/08/samsung-galaxy-watch-4-40mm-silver.png",
       "title": "Samsung galaxy ultra",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 107,
-      "img": "./src/imgs/rw7.jpg",
+      "img": "https://media.croma.com/image/upload/v1675185873/Croma%20Assets/Communication/Wearable%20Devices/Images/256311_3_zeicvk.png",
       "title": "Noise 2",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 108,
-      "img": "./src/imgs/rw8.jpg",
+      "img": "https://static.toiimg.com/thumb/msid-103931838,imgsize-2557935,width-400,resizemode-4/103931838.jpg",
       "title": "Noise round",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 109,
-      "img": "./src/imgs/rw9.jpg",
+      "img": "https://img-prd-pim.poorvika.com/product/Fire-boltt-atlas-smartwatch-brown-Front-Right-View.png",
       "title": "FireBoltt ninja",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 110,
-      "img": "./src/imgs/rw10.jpg",
+      "img": "https://media.croma.com/image/upload/v1684947790/Croma%20Assets/Communication/Wearable%20Devices/Images/270996_0_pvusb8.png",
       "title": "FireBoltt pheonix",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 111,
-      "img": "./src/imgs/rw11.jpg",
+      "img": "https://m.media-amazon.com/images/I/71XeKHAtrUL._AC_UY327_FMwebp_QL65_.jpg",
       "title": "Boat ultima",
       "price": "255",
       "mrp": "300"
     },
     {
       "id": 112,
-      "img": "./src/imgs/rw12.jpg",
+      "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683955936/Croma%20Assets/Wearable/Wearable%20Devices/Images/273025_jgsmhj.png",
       "title": "Boat lunar",
       "price": "255",
       "mrp": "300"
@@ -199,82 +199,82 @@
       "brands_scroll": [
         {
           "id": 16,
-          "img": "./src/imgs/bs1.jpg"
+          "img": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/a1ce6a163527213.63e749640edc5.png"
         },
         {
           "id": 17,
-          "img": "./src/imgs/bs2.jpg"
+          "img": "https://technozee.com/wp-content/uploads/2021/01/5-Best-smartwatch-under-10000-technozee.jpg"
         },
         {
           "id": 18,
-          "img": "./src/imgs/bs3.jpg"
+          "img": "https://www.ilounge.com/wp-content/uploads/2022/10/Apple-Watch-Ultra-1024x604.png"
         },
         {
           "id": 19,
-          "img": "./src/imgs/bs4.jpg"
+          "img": "https://s3-alpha.figma.com/hub/file/4386117552/resized/800x480/97905ad5-c1cc-4ef9-8174-b23c279760ca-cover.png"
         }
       ],
 
       "brands_list":[
         {
             "id":20,
-            "img":"./src/imgs/bl1.png"
+            "img":"https://vectorseek.com/wp-content/uploads/2023/10/Samsung-Galaxy-Watch-Logo-Vector.svg-.png"
         },
         {
             "id":21,
-            "img":"./src/imgs/bl2.png"
+            "img":"https://www.edigitalagency.com.au/wp-content/uploads/Apple-Watch-logo-png.png"
         },
         {
             "id":22,
-            "img":"./src/imgs/bl3.png"
+            "img":"https://vectorseek.com/wp-content/uploads/2021/01/Xiaomi-Logo-Vector.png"
         },
         {
             "id":23,
-            "img":"./src/imgs/bl4.png"
+            "img":"https://cdn.freelogovectors.net/wp-content/uploads/2023/05/realme_logo-freelogovectors.net_.png"
         },
         {
             "id":24,
-            "img":"./src/imgs/bl5.png"
+            "img":"https://www.pngall.com/wp-content/uploads/13/Fitbit-Logo-PNG.png"
         },
         {
             "id":25,
-            "img":"./src/imgs/bl6.avif"
+            "img":"https://www.twice.com/wp-content/uploads/2021/11/Amazfit-Logo_1-2048x512.png"
         },
         {
             "id":26,
-            "img":"./src/imgs/bl7.webp"
+            "img":"https://logohistory.net/wp-content/uploads/2023/08/Oppo-Emblem-768x432.png"
         },
         {
             "id":27,
-            "img":"./src/imgs/bl8.jpg"
+            "img":"https://logolook.net/wp-content/uploads/2022/12/OnePlus-Logo-2013.png"
         },
         {
             "id":28,
-            "img":"./src/imgs/bl9.png"
+            "img":"https://cdn.shopify.com/s/files/1/0137/0292/2286/files/Background.png?v=1620478900"
         },
         {
             "id":29,
-            "img":"./src/imgs/bl10.webp"
+            "img":"https://www.themobileindian.com/wp-content/uploads/2021/08/India-wearables-brand.png"
         },
         {
             "id":30,
-            "img":"./src/imgs/bl11.png"
+            "img":"https://pngimg.com/uploads/garmin/garmin_PNG8.png"
         },
         {
             "id":31,
-            "img":"./src/imgs/bl12.png"
+            "img":"https://static.vecteezy.com/system/resources/previews/023/636/283/non_2x/huawei-logo-transparent-free-png.png"
         },
         {
             "id":32,
-            "img":"./src/imgs/bl13.webp"
+            "img":"https://store.siamphone.com/images/brand/Fossil-logo.png"
         },
         {
             "id":33,
-            "img":"./src/imgs/bl14.jpg"
+            "img":"https://www.pngkey.com/png/full/130-1309592_pebble-technology-builds-smart-watches-pebble-logo-png.png"
         },
         {
             "id":34,
-            "img":"./src/imgs/bl15.jpg"
+            "img":"https://skagen.be/web/images/skagen-logo-horizontal-outlined.png"
         }
       ]
     }
