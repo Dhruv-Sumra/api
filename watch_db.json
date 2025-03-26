@@ -4,19 +4,19 @@
       "id": 1,
       "title": "Apple",
       "img": "https://www.pngarts.com/files/8/Apple-Watch-PNG-High-Quality-Image.png",
-      "info": "The Apple Watch excels in fitness, health tracking, and seamless Apple integration."
+      "info": ""
     },
     {
       "id": 2,
       "title": "Xiaomi",
       "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1679574223.38469571.png",
-      "info": "Xiaomi smartwatches offer affordability and impressive battery life, all in a sleek design."
+      "info": ""
     },
     {
       "id": 3,
       "title": "Samsung",
-      "img": "https://images.fravega.com/f1000/b3383a6853e611ffcfae5b44b939c93a.png",
-      "info": "Samsung smartwatches, like the Galaxy Watch series and advanced fitness and health features"
+      "img": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/internet-devices/samsung/Samsung-Galaxy-Watch5-40mm/Graphite/Samsung-Galaxy-Watch5-40mm-Graphite-frontimage.png",
+      "info": ""
     }
   ],
 
@@ -104,6 +104,57 @@
       "title": "Boat lunar",
       "price": "255",
       "mrp": "300"
+    }
+  ],
+
+  "review":[
+    {
+      "id":16,
+      "img":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+      "title":"Mike",
+      "body":"This smartwatch redefines fitness tracking with cutting-edge health features and sleek design."
+    },
+    {
+      "id":17,
+      "img":"https://images.pexels.com/photos/1232459/pexels-photo-1232459.jpeg",
+      "title":"Jack",
+      "body":"Perfect for tech lovers, it seamlessly integrates with daily life and keeps you connected on the go"
+    },
+    {
+      "id":18,
+      "img":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+      "title":"Daniel",
+      "body":"Offers incredible battery life and smart features, making it ideal for everyday use."
+    },
+    {
+      "id":19,
+      "img":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+      "title":"Jay",
+      "body":"A stylish wearable with comprehensive fitness tools and notifications that never miss a beat."
+    },
+    {
+      "id":20,
+      "img":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+      "title":"Vasco",
+      "body":"Combines affordability with functionality, delivering a great user experience for beginners."
+    },
+    {
+      "id":21,
+      "img":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+      "title":"Gun",
+      "body":"Packed with features like GPS and heart rate monitoring, it’s perfect for outdoor enthusiasts"
+    },
+    {
+      "id":22,
+      "img":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+      "title":"Peter",
+      "body":"Its intuitive interface and premium build make it a standout choice for professionals"
+    },
+    {
+      "id":23,
+      "img":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+      "title":"Reacher",
+      "body":"A budget-friendly smartwatch that doesn’t compromise on essential features like sleep tracking."
     }
   ],
 
