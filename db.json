@@ -367,11 +367,9 @@
         }
       ]
     }
-  ]
-},
-
+  ],
   
- { "blogs": [
+  "blogs": [
     {
       "id": 1,
       "title": "Consistency is the key",
